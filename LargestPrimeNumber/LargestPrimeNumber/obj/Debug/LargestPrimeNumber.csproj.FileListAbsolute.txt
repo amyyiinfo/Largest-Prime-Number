@@ -1,0 +1,6 @@
+c:\users\amy\documents\visual studio 2013\Projects\LargestPrimeNumber\LargestPrimeNumber\bin\Debug\LargestPrimeNumber.exe.config
+c:\users\amy\documents\visual studio 2013\Projects\LargestPrimeNumber\LargestPrimeNumber\obj\Debug\LargestPrimeNumber.csprojResolveAssemblyReference.cache
+c:\users\amy\documents\visual studio 2013\Projects\LargestPrimeNumber\LargestPrimeNumber\bin\Debug\LargestPrimeNumber.exe
+c:\users\amy\documents\visual studio 2013\Projects\LargestPrimeNumber\LargestPrimeNumber\bin\Debug\LargestPrimeNumber.pdb
+c:\users\amy\documents\visual studio 2013\Projects\LargestPrimeNumber\LargestPrimeNumber\obj\Debug\LargestPrimeNumber.exe
+c:\users\amy\documents\visual studio 2013\Projects\LargestPrimeNumber\LargestPrimeNumber\obj\Debug\LargestPrimeNumber.pdb
